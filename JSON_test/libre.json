@@ -1,0 +1,84 @@
+{
+  "frames": [
+    {
+      "time": 0,
+      "bones": {
+        "hips": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "chest": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "head": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "leftUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, -10] },
+        "rightUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, 10] },
+        "leftUpperLeg": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "rightUpperLeg": { "position": [0, 0, 0], "rotation": [-5, 0, 0] },
+        "leftLowerLeg": { "position": [0, 0, 0], "rotation": [-10, 0, 0] },
+        "rightLowerLeg": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "leftFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "rightFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] }
+      }
+    },
+    {
+      "time": 0.5,
+      "bones": {
+        "hips": { "position": [0, 0, 0], "rotation": [0, 5, 0] },
+        "chest": { "position": [0, 0, 0], "rotation": [0, -5, 0] },
+        "head": { "position": [0, 0, 0], "rotation": [0, -5, 0] },
+        "leftUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, 15] },
+        "rightUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, -15] },
+        "leftUpperLeg": { "position": [0, 0, 0], "rotation": [-15, 0, 0] },
+        "rightUpperLeg": { "position": [0, 0, 0], "rotation": [15, 0, 0] },
+        "leftLowerLeg": { "position": [0, 0, 0], "rotation": [15, 0, 0] },
+        "rightLowerLeg": { "position": [0, 0, 0], "rotation": [-15, 0, 0] },
+        "leftFoot": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "rightFoot": { "position": [0, 0, 0], "rotation": [-5, 0, 0] }
+      }
+    },
+    {
+      "time": 1.0,
+      "bones": {
+        "hips": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "chest": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "head": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "leftUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, -15] },
+        "rightUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, 15] },
+        "leftUpperLeg": { "position": [0, 0, 0], "rotation": [15, 0, 0] },
+        "rightUpperLeg": { "position": [0, 0, 0], "rotation": [-15, 0, 0] },
+        "leftLowerLeg": { "position": [0, 0, 0], "rotation": [-10, 0, 0] },
+        "rightLowerLeg": { "position": [0, 0, 0], "rotation": [10, 0, 0] },
+        "leftFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "rightFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] }
+      }
+    },
+    {
+      "time": 1.5,
+      "bones": {
+        "hips": { "position": [0, 0, 0], "rotation": [0, -5, 0] },
+        "chest": { "position": [0, 0, 0], "rotation": [0, 5, 0] },
+        "head": { "position": [0, 0, 0], "rotation": [0, 5, 0] },
+        "leftUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, 15] },
+        "rightUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, -15] },
+        "leftUpperLeg": { "position": [0, 0, 0], "rotation": [-15, 0, 0] },
+        "rightUpperLeg": { "position": [0, 0, 0], "rotation": [15, 0, 0] },
+        "leftLowerLeg": { "position": [0, 0, 0], "rotation": [15, 0, 0] },
+        "rightLowerLeg": { "position": [0, 0, 0], "rotation": [-15, 0, 0] },
+        "leftFoot": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "rightFoot": { "position": [0, 0, 0], "rotation": [-5, 0, 0] }
+      }
+    },
+    {
+      "time": 2.0,
+      "bones": {
+        "hips": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "chest": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "head": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "leftUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, -10] },
+        "rightUpperArm": { "position": [0, 0, 0], "rotation": [0, 0, 10] },
+        "leftUpperLeg": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "rightUpperLeg": { "position": [0, 0, 0], "rotation": [-5, 0, 0] },
+        "leftLowerLeg": { "position": [0, 0, 0], "rotation": [-10, 0, 0] },
+        "rightLowerLeg": { "position": [0, 0, 0], "rotation": [5, 0, 0] },
+        "leftFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] },
+        "rightFoot": { "position": [0, 0, 0], "rotation": [0, 0, 0] }
+      }
+    }
+  ]
+}

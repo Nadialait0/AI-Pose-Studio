@@ -1,0 +1,94 @@
+{
+    "frames": [
+      {
+        "time": 0,
+        "bones": {
+          "leftUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+          "leftLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+          "leftHand": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+  
+          "rightUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0] 
+          },
+          "rightLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+          "rightHand": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          }
+        }
+      },
+      {
+        "time": 0.5,
+        "bones": {
+          "leftUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [-16, -12, 23]
+          },
+          "leftLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [11, -80, -64]
+          },
+          "leftHand": {
+            "position": [0, 0, 0],
+            "rotation": [-1, -1, -32]
+          },
+            "rightUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [10, 0, -40]
+          },
+          "rightLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+          "rightHand": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          }
+        }
+      },
+      {
+        "time": 1.0,
+        "bones": {
+          "leftUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [-16, -12, 23]
+          },
+          "leftLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [11, -80, -64]
+          },
+          "leftHand": {
+            "position": [0, 0, 0],
+            "rotation": [-1, -1, -32]
+          },
+            "rightUpperArm": {
+            "position": [0, 0, 0],
+            "rotation": [30, 0, -10]
+           
+          },
+          "rightLowerArm": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          },
+          "rightHand": {
+            "position": [0, 0, 0],
+            "rotation": [0, 0, 0]
+          }
+        }
+      }
+    ]
+  }
+  
